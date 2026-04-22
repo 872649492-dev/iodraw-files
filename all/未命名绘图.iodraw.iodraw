@@ -64,12 +64,12 @@
           <mxGeometry x="355" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tDbWUO42-Bf4eUcCQG1Y-4" value="电机推杆" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="200" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tDbWUO42-Bf4eUcCQG1Y-5" value="编码器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="354" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="355" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tDbWUO42-Bf4eUcCQG1Y-6" value="光电传感器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tDbWUO42-Bf4eUcCQG1Y-6" value="光电传感器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="510" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tDbWUO42-Bf4eUcCQG1Y-7" value="上位机可视化控制台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
