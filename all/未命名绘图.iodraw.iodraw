@@ -39,7 +39,7 @@
         </mxCell>
         <mxCell id="tDbWUO42-Bf4eUcCQG1Y-42" value="模式2：网关Client 模块Server" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tDbWUO42-Bf4eUcCQG1Y-32">
           <mxGeometry x="-0.3471" y="1" relative="1" as="geometry">
-            <mxPoint x="44" y="3" as="offset" />
+            <mxPoint x="64" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tDbWUO42-Bf4eUcCQG1Y-2" value="本地TCP网关&lt;div&gt;被动/主动双模式&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -50,8 +50,8 @@
             <Array as="points">
               <mxPoint x="460" y="340" />
               <mxPoint x="460" y="305" />
-              <mxPoint x="570" y="305" />
-              <mxPoint x="570" y="230" />
+              <mxPoint x="660" y="305" />
+              <mxPoint x="660" y="230" />
             </Array>
           </mxGeometry>
         </mxCell>
