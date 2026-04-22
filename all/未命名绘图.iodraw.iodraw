@@ -39,6 +39,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="tDbWUO42-Bf4eUcCQG1Y-37" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tDbWUO42-Bf4eUcCQG1Y-34">
+          <mxGeometry x="0.4482" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="tDbWUO42-Bf4eUcCQG1Y-3" value="STM32F103c8t6主控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="355" y="340" width="120" height="60" as="geometry" />
         </mxCell>
