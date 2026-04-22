@@ -71,7 +71,7 @@
             <mxPoint x="474.00000000000006" y="190.15999999999997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tDbWUO42-Bf4eUcCQG1Y-22" value="TCP透传 RJ45→TTL" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tDbWUO42-Bf4eUcCQG1Y-19">
+        <mxCell id="tDbWUO42-Bf4eUcCQG1Y-22" value="数据刷新 曲线/CSV" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tDbWUO42-Bf4eUcCQG1Y-19">
           <mxGeometry x="-0.057" y="1" relative="1" as="geometry">
             <mxPoint x="25" as="offset" />
           </mxGeometry>
