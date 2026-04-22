@@ -107,7 +107,7 @@
         </mxCell>
         <mxCell id="tDbWUO42-Bf4eUcCQG1Y-21" value="下发指令 OPEN/SET/SPD" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tDbWUO42-Bf4eUcCQG1Y-18">
           <mxGeometry x="-0.0818" relative="1" as="geometry">
-            <mxPoint x="-33" y="3" as="offset" />
+            <mxPoint x="-23" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tDbWUO42-Bf4eUcCQG1Y-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.867;exitY=0.002;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.789;entryY=1.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tDbWUO42-Bf4eUcCQG1Y-2" target="tDbWUO42-Bf4eUcCQG1Y-7">
