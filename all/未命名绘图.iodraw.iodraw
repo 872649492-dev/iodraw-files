@@ -40,22 +40,8 @@
         <mxCell id="tDbWUO42-Bf4eUcCQG1Y-2" value="本地TCP网关&lt;div&gt;被动/主动双模式&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="190" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="tDbWUO42-Bf4eUcCQG1Y-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="560" y="340" as="sourcePoint" />
-            <mxPoint x="575" y="230" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="545" y="340" />
-              <mxPoint x="545" y="305" />
-              <mxPoint x="595" y="305" />
-              <mxPoint x="595" y="230" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tDbWUO42-Bf4eUcCQG1Y-37" value="状态回传 STAT/CFG/IR" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tDbWUO42-Bf4eUcCQG1Y-34">
-          <mxGeometry x="0.4482" relative="1" as="geometry">
-            <mxPoint x="40" y="-14" as="offset" />
-          </mxGeometry>
+        <mxCell id="tDbWUO42-Bf4eUcCQG1Y-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tDbWUO42-Bf4eUcCQG1Y-3" target="tDbWUO42-Bf4eUcCQG1Y-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tDbWUO42-Bf4eUcCQG1Y-3" value="STM32F103c8t6主控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="355" y="340" width="120" height="60" as="geometry" />
