@@ -19,7 +19,7 @@
         <mxCell id="tDbWUO42-Bf4eUcCQG1Y-6" value="光电传感器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tDbWUO42-Bf4eUcCQG1Y-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tDbWUO42-Bf4eUcCQG1Y-7">
+        <mxCell id="tDbWUO42-Bf4eUcCQG1Y-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tDbWUO42-Bf4eUcCQG1Y-7" target="tDbWUO42-Bf4eUcCQG1Y-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="185" y="80" as="targetPoint" />
           </mxGeometry>
