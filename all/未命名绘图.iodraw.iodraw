@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="tDbWUO42-Bf4eUcCQG1Y-2" value="本地TCP网关&lt;div&gt;被动/主动双模式&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="180" width="150" height="80" as="geometry" />
+          <mxGeometry x="340" y="190" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tDbWUO42-Bf4eUcCQG1Y-3" value="STM32F103c8t6主控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="340" width="120" height="60" as="geometry" />
@@ -18,21 +18,6 @@
         </mxCell>
         <mxCell id="tDbWUO42-Bf4eUcCQG1Y-6" value="光电传感器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="500" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="tDbWUO42-Bf4eUcCQG1Y-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="340" y="110" as="sourcePoint" />
-            <mxPoint x="387.5" y="180" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tDbWUO42-Bf4eUcCQG1Y-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="442.5" y="110" as="sourcePoint" />
-            <mxPoint x="440" y="180" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="440" y="110" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="tDbWUO42-Bf4eUcCQG1Y-7" value="上位机可视化控制台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="320" y="50" width="190" height="60" as="geometry" />
