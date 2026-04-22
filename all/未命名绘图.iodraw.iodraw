@@ -50,8 +50,8 @@
             <Array as="points">
               <mxPoint x="460" y="340" />
               <mxPoint x="460" y="305" />
-              <mxPoint x="660" y="305" />
-              <mxPoint x="660" y="230" />
+              <mxPoint x="620" y="305" />
+              <mxPoint x="620" y="230" />
             </Array>
           </mxGeometry>
         </mxCell>
