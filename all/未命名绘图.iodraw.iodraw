@@ -30,7 +30,7 @@
         </mxCell>
         <mxCell id="tDbWUO42-Bf4eUcCQG1Y-21" value="下发指令 OPEN/SET/SPD" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tDbWUO42-Bf4eUcCQG1Y-18">
           <mxGeometry x="-0.0818" relative="1" as="geometry">
-            <mxPoint x="1" y="3" as="offset" />
+            <mxPoint x="-33" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tDbWUO42-Bf4eUcCQG1Y-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.813;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
@@ -41,7 +41,13 @@
         </mxCell>
         <mxCell id="tDbWUO42-Bf4eUcCQG1Y-22" value="TCP透传 RJ45→TTL" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tDbWUO42-Bf4eUcCQG1Y-19">
           <mxGeometry x="-0.057" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="25" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tDbWUO42-Bf4eUcCQG1Y-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="340" as="sourcePoint" />
+            <mxPoint x="440" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
