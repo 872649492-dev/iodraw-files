@@ -22,10 +22,10 @@
         <mxCell id="tDbWUO42-Bf4eUcCQG1Y-7" value="上位机可视化控制台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="320" y="50" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tDbWUO42-Bf4eUcCQG1Y-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.184;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="tDbWUO42-Bf4eUcCQG1Y-2">
+        <mxCell id="tDbWUO42-Bf4eUcCQG1Y-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.184;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="368" y="110" as="sourcePoint" />
-            <mxPoint x="368" y="191" as="targetPoint" />
+            <mxPoint x="353.4" y="110" as="sourcePoint" />
+            <mxPoint x="352.9999999999999" y="190.15999999999997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tDbWUO42-Bf4eUcCQG1Y-21" value="下发指令 OPEN/SET/SPD" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tDbWUO42-Bf4eUcCQG1Y-18">
@@ -33,13 +33,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tDbWUO42-Bf4eUcCQG1Y-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.813;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tDbWUO42-Bf4eUcCQG1Y-7" target="tDbWUO42-Bf4eUcCQG1Y-2">
+        <mxCell id="tDbWUO42-Bf4eUcCQG1Y-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.813;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="340" as="sourcePoint" />
-            <mxPoint x="440" y="290" as="targetPoint" />
+            <mxPoint x="474.55" y="110" as="sourcePoint" />
+            <mxPoint x="474.00000000000006" y="190.15999999999997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tDbWUO42-Bf4eUcCQG1Y-22" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tDbWUO42-Bf4eUcCQG1Y-19">
+        <mxCell id="tDbWUO42-Bf4eUcCQG1Y-22" value="TCP透传 RJ45→TTL" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tDbWUO42-Bf4eUcCQG1Y-19">
           <mxGeometry x="-0.057" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
