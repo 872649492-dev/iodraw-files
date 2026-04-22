@@ -42,7 +42,7 @@
             <mxPoint x="64" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tDbWUO42-Bf4eUcCQG1Y-2" value="本地TCP网关&lt;div&gt;被动/主动双模式&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tDbWUO42-Bf4eUcCQG1Y-2" value="本地TCP网关&lt;div&gt;被动/主动双模式&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="340" y="190" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tDbWUO42-Bf4eUcCQG1Y-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tDbWUO42-Bf4eUcCQG1Y-3" target="tDbWUO42-Bf4eUcCQG1Y-2">
