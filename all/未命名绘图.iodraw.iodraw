@@ -10,7 +10,7 @@
         <mxCell id="tDbWUO42-Bf4eUcCQG1Y-3" value="STM32F103c8t6主控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tDbWUO42-Bf4eUcCQG1Y-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tDbWUO42-Bf4eUcCQG1Y-4" value="电机推杆" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tDbWUO42-Bf4eUcCQG1Y-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
