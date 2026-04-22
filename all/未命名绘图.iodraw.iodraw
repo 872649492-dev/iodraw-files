@@ -7,11 +7,6 @@
         <mxCell id="tDbWUO42-Bf4eUcCQG1Y-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.08;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tDbWUO42-Bf4eUcCQG1Y-2" target="tDbWUO42-Bf4eUcCQG1Y-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tDbWUO42-Bf4eUcCQG1Y-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.933;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="tDbWUO42-Bf4eUcCQG1Y-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="720" y="260" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="tDbWUO42-Bf4eUcCQG1Y-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tDbWUO42-Bf4eUcCQG1Y-2" target="tDbWUO42-Bf4eUcCQG1Y-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -64,6 +59,12 @@
         <mxCell id="tDbWUO42-Bf4eUcCQG1Y-22" value="TCP透传 RJ45→TTL" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tDbWUO42-Bf4eUcCQG1Y-19">
           <mxGeometry x="-0.057" y="1" relative="1" as="geometry">
             <mxPoint x="25" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tDbWUO42-Bf4eUcCQG1Y-33" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="340" as="sourcePoint" />
+            <mxPoint x="440" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
