@@ -63,8 +63,18 @@
         <mxCell id="tDbWUO42-Bf4eUcCQG1Y-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tDbWUO42-Bf4eUcCQG1Y-3" target="tDbWUO42-Bf4eUcCQG1Y-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="tDbWUO42-Bf4eUcCQG1Y-46" value="PWM控制" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tDbWUO42-Bf4eUcCQG1Y-43">
+          <mxGeometry x="0.533" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="tDbWUO42-Bf4eUcCQG1Y-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tDbWUO42-Bf4eUcCQG1Y-3" target="tDbWUO42-Bf4eUcCQG1Y-5">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tDbWUO42-Bf4eUcCQG1Y-47" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tDbWUO42-Bf4eUcCQG1Y-44">
+          <mxGeometry x="-0.44" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="tDbWUO42-Bf4eUcCQG1Y-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tDbWUO42-Bf4eUcCQG1Y-3" target="tDbWUO42-Bf4eUcCQG1Y-6">
           <mxGeometry relative="1" as="geometry" />
