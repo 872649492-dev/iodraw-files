@@ -50,7 +50,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tDbWUO42-Bf4eUcCQG1Y-40" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tDbWUO42-Bf4eUcCQG1Y-39">
+        <mxCell id="tDbWUO42-Bf4eUcCQG1Y-40" value="&#xa;状态回传 STAT/CFG/IR&#xa;&#xa;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tDbWUO42-Bf4eUcCQG1Y-39">
           <mxGeometry x="-0.7448" y="6" relative="1" as="geometry">
             <mxPoint x="116" y="-55" as="offset" />
           </mxGeometry>
