@@ -37,6 +37,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="tDbWUO42-Bf4eUcCQG1Y-42" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tDbWUO42-Bf4eUcCQG1Y-32">
+          <mxGeometry x="-0.3471" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="tDbWUO42-Bf4eUcCQG1Y-2" value="本地TCP网关&lt;div&gt;被动/主动双模式&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="190" width="150" height="80" as="geometry" />
         </mxCell>
